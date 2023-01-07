@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "764315863109",
+    "project_id": "beauty-parlour-app-2da7f",
+    "storage_bucket": "beauty-parlour-app-2da7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764315863109:android:0aa71487d2b7270ac4bb2c",
+        "android_client_info": {
+          "package_name": "com.example.beautyparlourapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764315863109-s91m9qs4i58li1okell1egd8b676j33t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg1g25CEtXFZ5vcKSDvKvbOiy8AWowdUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764315863109-s91m9qs4i58li1okell1egd8b676j33t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
